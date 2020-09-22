@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Java and C#. I have roughly 2 years of experience using JavaScript. I am most comfortable building User Interfaces using the React Framework.
 <!--
 **Prouty89/Prouty89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
