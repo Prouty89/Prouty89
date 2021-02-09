@@ -2,6 +2,11 @@
 
 🌱 I’m currently learning PHP. I have roughly 2 years of experience using JavaScript. The majority of my experience is using React to build UI's, Node, and a handful of libraries, database tools, to handle backend concerns.
 
+see more!
+
+[Portfolio](www.blakeprouty.co)
+[LinkedIn](https://www.linkedin.com/in/blakenp/)
+
 [![Blake's github stats](https://github-readme-stats.vercel.app/api?username=prouty89)](https://github.com/prouty89/github-readme-stats)
 <!--
 **Prouty89/Prouty89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
