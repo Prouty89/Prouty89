@@ -4,7 +4,7 @@
 
 see more!
 
-[Portfolio](www.blakeprouty.co)  
+[Portfolio](https://blakeprouty.co/)  
 
 [LinkedIn](https://www.linkedin.com/in/blakenp/)
 
