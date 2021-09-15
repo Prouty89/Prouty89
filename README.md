@@ -2,8 +2,6 @@
 
 🌱 Full-Stack Software Engineer @ Malouf
 
-see more!
-
 [Portfolio](https://blakeprouty.co/)  
 
 [LinkedIn](https://www.linkedin.com/in/blakenp/)
