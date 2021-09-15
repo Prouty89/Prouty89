@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning PHP. I have roughly 2 years of experience using JavaScript. The majority of my experience is using React to build UI's, Node, and a handful of libraries, database tools, to handle backend concerns.
+🌱 Full-Stack Software Engineer @ Malouf
 
 see more!
 
