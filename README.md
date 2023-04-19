@@ -2,8 +2,6 @@
 
 🌱 Full-Stack Software Engineer @ OBV
 
-[Portfolio](https://blakeprouty.co/)  
-
 [LinkedIn](https://www.linkedin.com/in/blakenp/)
 
 [![Blake's github stats](https://github-readme-stats.vercel.app/api?username=prouty89)](https://github.com/prouty89/github-readme-stats)
