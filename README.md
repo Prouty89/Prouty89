@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 Full-Stack Software Engineer @ Malouf
+🌱 Full-Stack Software Engineer @ OBV
 
 [Portfolio](https://blakeprouty.co/)  
 
