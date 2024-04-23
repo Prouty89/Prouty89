@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 Full-Stack Software Engineer @ OBV
+🌱 Full-Stack Developer @ OBV
 
 [LinkedIn](https://www.linkedin.com/in/blakenp/)
 
