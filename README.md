@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 Full-Stack Developer @ OBV
+🌱 Full-Stack Developer ORCA - Killer Warehouse
 
 [LinkedIn](https://www.linkedin.com/in/blakenp/)
 
